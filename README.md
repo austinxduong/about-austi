@@ -11,6 +11,7 @@ const austiWorld = {
   comfort: {
     food: 'Pizza Rolls', 
     drink: 'Thai Tea',
+    wine: 'Cabernet Sauvignon'
   },
  };
 ```
