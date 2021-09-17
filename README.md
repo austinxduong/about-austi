@@ -17,6 +17,6 @@ const austiWorld = {
     fun: true,
     impact: true,
     vision: true
-   }
+   },
  };
 ```
