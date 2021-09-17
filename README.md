@@ -13,5 +13,10 @@ const austiWorld = {
     drink: 'Thai Tea',
     wine: 'Cabernet Sauvignon'
   },
+  workValues: {
+    fun: true,
+    impact: true,
+    vision: true
+   }
  };
 ```
