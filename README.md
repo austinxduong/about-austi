@@ -16,7 +16,8 @@ const austiWorld = {
   workValues: {
     fun: true,
     impact: true,
-    vision: true
+    vision: true,
+    empathy: true
   },
  };
 ```
