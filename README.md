@@ -20,8 +20,8 @@ const austiDesigns = {
     wine: 'Cabernet Sauvignon'
   },
   workValues: {
-    fun: true,
-    impact: true,
+    love: true,
+    open-hearted: true,
     vision: true,
     empathy: true
   },
